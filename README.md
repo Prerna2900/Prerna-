@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prerna2900&label=Profile%20views&color=0e75b6&style=flat" alt="prerna2900" /> </p>
 
-- 🔭 I’m currently working on **front**
+- 🔭 I’m currently working on **frontend**
 
 - 🌱 I’m currently learning **Nodejs, django**
 
